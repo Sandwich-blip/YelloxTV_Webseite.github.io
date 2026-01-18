@@ -1,0 +1,103 @@
+body{margin:0px}
+.Ueberschrift h1{
+    
+    color:white;
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    margin-right:15px;
+
+}
+
+.Ueberschrift{
+ margin-top: 0px;
+ margin-bottom: 50px;
+      height:100px;
+        box-shadow: -6px 24px 24px -4px rgba(0,0,0,0.3);
+         display:flex;
+        align-items:center;
+        justify-content:center;
+background-color:#1F46A0;
+}
+.link{
+    color:white ;
+    background-color:#1F46A0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:50px;
+    padding:0px;
+}
+.link a{
+
+    border:solid white 2px;
+    margin-top:10px;
+    margin-left:60px;
+    margin-right:60px;
+    padding:2px;
+    color:white;
+    background-color:#1F46A0;
+    text-decoration:none;
+    font-size:15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   box-shadow: 0px 0px 10px 2px rgba(255,255,255,0.39);
+}.link a:hover{background-color:#1257CE; }
+.Intro{
+    color:#1F46A0;
+    margin-left:20px;
+    margin-right:20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:20px;
+    text-align:center;
+    
+}
+.SocialMedia{
+    margin-top:50px;
+    margin-left:20px;
+    margin-right:20px;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.SocialMedia a{
+    padding:30px;
+    text-decoration:none;
+    color:white;
+    background-color:#1F46A0;
+     box-shadow:  0px 0px 15px 5px #1F46A0;
+       border:white 2px solid;
+       
+}
+.SocialMedia a:hover{background-color:#1257CE;}
+
+.EMAIL{
+    margin-top:50px;
+       color:#1F46A0;
+    margin-left:20px;
+    margin-right:20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:20px;
+    text-align:center; 
+    
+}
+.EMAILADRESSE{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top:20px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-bottom:70px;
+    margin-top:30px;
+    
+}
+.EMAILADRESSE a{
+       padding:30px;
+    text-decoration:none;
+    color:white;
+    background-color:#1F46A0;
+     box-shadow:  0px 0px 15px 5px #1F46A0;
+       border:white 2px solid;
+}
+.EMAILADRESSE a:hover{background-color:#1257CE;}
